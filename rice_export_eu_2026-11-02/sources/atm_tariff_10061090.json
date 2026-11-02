@@ -1,0 +1,214 @@
+[
+  {
+    "measures": [
+      {
+        "id": 0,
+        "hsCode": null,
+        "description": null,
+        "origin": "ERGA OMNES",
+        "type": "Third country duty",
+        "measureType": "103",
+        "geographicalArea": "1011",
+        "geographicalSigl": "TOUT",
+        "regulationRoleType": "4",
+        "regulationId": "R2219980",
+        "regulationOrderNumber": null,
+        "startDate": "01/01/2023",
+        "endDate": "01/01/3000",
+        "additionalCodeId": null,
+        "additionalCodeText": null,
+        "exclusions": null,
+        "tariffFormula": "211.00 EUR / tonne",
+        "footnotes": [],
+        "conditions": []
+      },
+      {
+        "id": 0,
+        "hsCode": null,
+        "description": null,
+        "origin": "ERGA OMNES",
+        "type": "Low-value consignment customs duty",
+        "measureType": "107",
+        "geographicalArea": "1011",
+        "geographicalSigl": "TOUT",
+        "regulationRoleType": "1",
+        "regulationId": "R2603820",
+        "regulationOrderNumber": null,
+        "startDate": "01/11/2026",
+        "endDate": null,
+        "additionalCodeId": null,
+        "additionalCodeText": null,
+        "exclusions": null,
+        "tariffFormula": "3.00 EUR",
+        "footnotes": [
+          {
+            "code": 1066,
+            "type": "TM",
+            "text": "From 1 July 2026 until 1 July 2028, a customs duty of EUR 3 per item in a consignment the intrinsic value of which does not exceed a total of EUR 150 shall apply instead of the relief eliminated pursuant to Article 1 of this Regulation, where:<br>(a) the importation of the goods is exempt from VAT in accordance with Article 143(1), point (ca), of Directive 2006/112/EC; or<br>(b) the goods are in a postal consignment as defined in Article 1, point (24), of Delegated Regulation (EU) 2015/2446.<br><br>The merchant product identifier, the non-standardised manufacturer product identifier and, if it exists for the item, the standardised manufacturer product identifier, as they are defined in Article 1(57) of Regulation, shall be provided for each item regarding goods sold in distance sales of imported goods, as defined in Article 14(4) point (2) of Directive 2006/112/EC. <br>The product identifier’ the unique alphanumeric code assigned to a specific model, batch or article, ensuring, at any packaging level, its precise, unambiguous identification and traceability at every stage of the supply chain, from the offering for sale, including online or distance sale, through the sale and supply to post-market activities. <br>A product identifier may be any of the following:<br>- a ‘manufacturer product identifier’, assigned by the manufacturer, the producer or the product supplier. Such identifier is ‘standardised’ where it relies on internationally recognised standards, and ‘non-standardised’ otherwise;<br>- a ‘merchant product identifier’, assigned by an online seller, marketplace or platform.”<br>"
+          }
+        ],
+        "conditions": [
+          {
+            "measureID": 0,
+            "type": "B",
+            "sequenceNumber": "1",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Apply the mentioned duty",
+            "certificateType": "C",
+            "certificateNumber": "127",
+            "certificateDescription": "Merchant product identifier",
+            "conditionExpression": null,
+            "tariffFormula": null
+          },
+          {
+            "measureID": 0,
+            "type": "B",
+            "sequenceNumber": "9",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Import is not allowed",
+            "certificateType": null,
+            "certificateNumber": null,
+            "certificateDescription": null,
+            "conditionExpression": null,
+            "tariffFormula": null
+          },
+          {
+            "measureID": 0,
+            "type": "C",
+            "sequenceNumber": "1",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Apply the mentioned duty",
+            "certificateType": "C",
+            "certificateNumber": "128",
+            "certificateDescription": "Non-standardised manufacturer product identifier",
+            "conditionExpression": null,
+            "tariffFormula": null
+          },
+          {
+            "measureID": 0,
+            "type": "C",
+            "sequenceNumber": "9",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Import is not allowed",
+            "certificateType": null,
+            "certificateNumber": null,
+            "certificateDescription": null,
+            "conditionExpression": null,
+            "tariffFormula": null
+          },
+          {
+            "measureID": 0,
+            "type": "H",
+            "sequenceNumber": "1",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Apply the mentioned duty",
+            "certificateType": "C",
+            "certificateNumber": "129",
+            "certificateDescription": "Standardised manufacturer product identifier",
+            "conditionExpression": null,
+            "tariffFormula": null
+          },
+          {
+            "measureID": 0,
+            "type": "H",
+            "sequenceNumber": "5",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Apply the mentioned duty",
+            "certificateType": "Y",
+            "certificateNumber": "081",
+            "certificateDescription": "No standardised manufacturer product identifier for the declared product exists",
+            "conditionExpression": null,
+            "tariffFormula": null
+          },
+          {
+            "measureID": 0,
+            "type": "H",
+            "sequenceNumber": "9",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Import is not allowed",
+            "certificateType": null,
+            "certificateNumber": null,
+            "certificateDescription": null,
+            "conditionExpression": null,
+            "tariffFormula": null
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "hsCode": null,
+        "description": null,
+        "origin": "All third countries",
+        "type": "Non preferential tariff quota",
+        "measureType": "122",
+        "geographicalArea": "1008",
+        "geographicalSigl": "ALLTC",
+        "regulationRoleType": "1",
+        "regulationId": "R2019880",
+        "regulationOrderNumber": "090083",
+        "startDate": "01/01/2026",
+        "endDate": "31/12/2026",
+        "additionalCodeId": null,
+        "additionalCodeText": null,
+        "exclusions": "Belarus, Russian Federation, United Kingdom",
+        "tariffFormula": "15.00%",
+        "footnotes": [],
+        "conditions": []
+      },
+      {
+        "id": 0,
+        "hsCode": null,
+        "description": null,
+        "origin": "ERGA OMNES",
+        "type": "Additional duties",
+        "measureType": "695",
+        "geographicalArea": "1011",
+        "geographicalSigl": "TOUT",
+        "regulationRoleType": "1",
+        "regulationId": "R2512270",
+        "regulationOrderNumber": null,
+        "startDate": "20/07/2025",
+        "endDate": null,
+        "additionalCodeId": null,
+        "additionalCodeText": null,
+        "exclusions": "Belarus, Russian Federation",
+        "tariffFormula": null,
+        "footnotes": [
+          {
+            "code": 1026,
+            "type": "TM",
+            "text": "In case the goods are exported directly or indirectly from the Russian Federation or from Belarus, the additional customs duty based on Council Regulation (EU) 2025/1227 is applied."
+          }
+        ],
+        "conditions": [
+          {
+            "measureID": 0,
+            "type": "B",
+            "sequenceNumber": "1",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Apply the amount of the action",
+            "certificateType": "Y",
+            "certificateNumber": "155",
+            "certificateDescription": "Products exported directly or indirectly from the Russian Federation or Belarus",
+            "conditionExpression": null,
+            "tariffFormula": "50.00%"
+          },
+          {
+            "measureID": 0,
+            "type": "B",
+            "sequenceNumber": "9",
+            "description": "Presentation of a certificate/licence/document",
+            "actionDescription": "Apply the amount of the action",
+            "certificateType": null,
+            "certificateNumber": null,
+            "certificateDescription": null,
+            "conditionExpression": null,
+            "tariffFormula": "0%"
+          }
+        ]
+      }
+    ],
+    "description": "Other",
+    "code": null
+  }
+]

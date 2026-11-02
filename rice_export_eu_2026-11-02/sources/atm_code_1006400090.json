@@ -1,0 +1,40 @@
+[
+  {
+    "id": 310,
+    "code": "10",
+    "description": "Cereals",
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 1410,
+        "code": "1006",
+        "description": "Rice",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 7510,
+            "code": "100640",
+            "description": "Broken rice",
+            "hasChildren": true,
+            "children": [
+              {
+                "id": 11910,
+                "code": "1006400010",
+                "description": "For the manufacture of food preparations of subheading 1901 10",
+                "hasChildren": false,
+                "selectable": true
+              },
+              {
+                "id": 12010,
+                "code": "1006400090",
+                "description": "Other",
+                "hasChildren": false,
+                "selectable": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

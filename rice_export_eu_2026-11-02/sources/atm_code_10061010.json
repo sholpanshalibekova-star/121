@@ -1,0 +1,33 @@
+[
+  {
+    "id": 310,
+    "code": "10",
+    "description": "Cereals",
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 1410,
+        "code": "1006",
+        "description": "Rice",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 4910,
+            "code": "100610",
+            "description": "Rice in the husk (paddy or rough)",
+            "hasChildren": true,
+            "children": [
+              {
+                "id": 11010,
+                "code": "10061010",
+                "description": "For sowing",
+                "hasChildren": false,
+                "selectable": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

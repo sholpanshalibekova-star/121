@@ -1,0 +1,979 @@
+{
+  "leaves": [
+    {
+      "code": "10061010",
+      "description": "For sowing",
+      "path": [
+        "Paddy",
+        "For sowing"
+      ]
+    },
+    {
+      "code": "1006400010",
+      "description": "For the manufacture of food preparations of subheading 1901 10",
+      "path": [
+        "Broken",
+        "For the manufacture of food preparations of subheading 1901 10"
+      ]
+    },
+    {
+      "code": "1006400090",
+      "description": "Other",
+      "path": [
+        "Broken",
+        "Other"
+      ]
+    },
+    {
+      "code": "10061030",
+      "description": "Round grain",
+      "path": [
+        "Paddy",
+        "Other",
+        "Round grain"
+      ]
+    },
+    {
+      "code": "10061050",
+      "description": "Medium grain",
+      "path": [
+        "Paddy",
+        "Other",
+        "Medium grain"
+      ]
+    },
+    {
+      "code": "10061090",
+      "description": "Other",
+      "path": [
+        "Paddy",
+        "Other",
+        "Other"
+      ]
+    },
+    {
+      "code": "10062011",
+      "description": "Round grain",
+      "path": [
+        "Brown",
+        "Parboiled",
+        "Round grain"
+      ]
+    },
+    {
+      "code": "10062013",
+      "description": "Medium grain",
+      "path": [
+        "Brown",
+        "Parboiled",
+        "Medium grain"
+      ]
+    },
+    {
+      "code": "10062092",
+      "description": "Round grain",
+      "path": [
+        "Brown",
+        "Other",
+        "Round grain"
+      ]
+    },
+    {
+      "code": "10062094",
+      "description": "Medium grain",
+      "path": [
+        "Brown",
+        "Other",
+        "Medium grain"
+      ]
+    },
+    {
+      "code": "10061071",
+      "description": "Of a length/width ratio greater than 2 but less than 3",
+      "path": [
+        "Paddy",
+        "Other",
+        "Long grain",
+        "Of a length/width ratio greater than 2 but less than 3"
+      ]
+    },
+    {
+      "code": "10061079",
+      "description": "Of a length/width ratio equal to or greater than 3",
+      "path": [
+        "Paddy",
+        "Other",
+        "Long grain",
+        "Of a length/width ratio equal to or greater than 3"
+      ]
+    },
+    {
+      "code": "10062015",
+      "description": "Of a length/width ratio greater than 2 but less than 3",
+      "path": [
+        "Brown",
+        "Parboiled",
+        "Long grain",
+        "Of a length/width ratio greater than 2 but less than 3"
+      ]
+    },
+    {
+      "code": "1006201999",
+      "description": "Other",
+      "path": [
+        "Brown",
+        "Parboiled",
+        "Other",
+        "Other"
+      ]
+    },
+    {
+      "code": "10062096",
+      "description": "Of a length/width ratio greater than 2 but less than 3",
+      "path": [
+        "Brown",
+        "Other",
+        "Long grain",
+        "Of a length/width ratio greater than 2 but less than 3"
+      ]
+    },
+    {
+      "code": "1006209999",
+      "description": "Other",
+      "path": [
+        "Brown",
+        "Other",
+        "Other",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006201799",
+      "description": "Other",
+      "path": [
+        "Brown",
+        "Parboiled",
+        "Long grain",
+        "Of a length/width ratio equal to or greater than 3",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006201991",
+      "description": "Other",
+      "path": [
+        "Brown",
+        "Parboiled",
+        "Other",
+        "Aromatic rice",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006209899",
+      "description": "Other",
+      "path": [
+        "Brown",
+        "Other",
+        "Long grain",
+        "Of a length/width ratio equal to or greater than 3",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006209991",
+      "description": "Other",
+      "path": [
+        "Brown",
+        "Other",
+        "Other",
+        "Aromatic rice",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006302110",
+      "description": "In immediate packings of a net content not exceeding 5 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Parboiled",
+        "Round grain",
+        "In immediate packings of a net content not exceeding 5 kg"
+      ]
+    },
+    {
+      "code": "1006302120",
+      "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Parboiled",
+        "Round grain",
+        "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg"
+      ]
+    },
+    {
+      "code": "1006302190",
+      "description": "Other",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Parboiled",
+        "Round grain",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006302310",
+      "description": "In immediate packings of a net content not exceeding 5 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Parboiled",
+        "Medium grain",
+        "In immediate packings of a net content not exceeding 5 kg"
+      ]
+    },
+    {
+      "code": "1006302320",
+      "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Parboiled",
+        "Medium grain",
+        "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg"
+      ]
+    },
+    {
+      "code": "1006302390",
+      "description": "Other",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Parboiled",
+        "Medium grain",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006304210",
+      "description": "In immediate packings of a net content not exceeding 5 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Other",
+        "Round grain",
+        "In immediate packings of a net content not exceeding 5 kg"
+      ]
+    },
+    {
+      "code": "1006304220",
+      "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Other",
+        "Round grain",
+        "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg"
+      ]
+    },
+    {
+      "code": "1006304290",
+      "description": "Other",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Other",
+        "Round grain",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006304410",
+      "description": "In immediate packings of a net content not exceeding 5 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Other",
+        "Medium grain",
+        "In immediate packings of a net content not exceeding 5 kg"
+      ]
+    },
+    {
+      "code": "1006304420",
+      "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Other",
+        "Medium grain",
+        "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg"
+      ]
+    },
+    {
+      "code": "1006304490",
+      "description": "Other",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Other",
+        "Medium grain",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006306110",
+      "description": "In immediate packings of a net content not exceeding 5 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Wholly milled rice",
+        "Parboiled",
+        "Round grain",
+        "In immediate packings of a net content not exceeding 5 kg"
+      ]
+    },
+    {
+      "code": "1006306120",
+      "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Wholly milled rice",
+        "Parboiled",
+        "Round grain",
+        "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg"
+      ]
+    },
+    {
+      "code": "1006306190",
+      "description": "Other",
+      "path": [
+        "Semi/wholly milled",
+        "Wholly milled rice",
+        "Parboiled",
+        "Round grain",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006306310",
+      "description": "In immediate packings of a net content not exceeding 5 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Wholly milled rice",
+        "Parboiled",
+        "Medium grain",
+        "In immediate packings of a net content not exceeding 5 kg"
+      ]
+    },
+    {
+      "code": "1006306320",
+      "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Wholly milled rice",
+        "Parboiled",
+        "Medium grain",
+        "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg"
+      ]
+    },
+    {
+      "code": "1006306390",
+      "description": "Other",
+      "path": [
+        "Semi/wholly milled",
+        "Wholly milled rice",
+        "Parboiled",
+        "Medium grain",
+        "Other"
+      ]
+    },
+    {
+      "code": "1006309410",
+      "description": "In immediate packings of a net content not exceeding 5 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Wholly milled rice",
+        "Other",
+        "Medium grain",
+        "In immediate packings of a net content not exceeding 5 kg"
+      ]
+    },
+    {
+      "code": "1006302510",
+      "description": "In immediate packings of a net content not exceeding 5 kg",
+      "path": [
+        "Semi/wholly milled",
+        "Semi-milled rice",
+        "Parboiled",
+        "Long grain",
+        "Of a length/width ratio greater than 2 but less than 3",
+        "In immediate packings of a net content not exceeding 5 kg"
+      ]
+    }
+  ],
+  "errors": [
+    [
+      {
+        "id": 35610,
+        "code": "1006309210",
+        "description": "In immediate packings of a net content not exceeding 5 kg",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 35710,
+        "code": "1006309220",
+        "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 35810,
+        "code": "1006309290",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 36010,
+        "code": "1006309420",
+        "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 36110,
+        "code": "1006309490",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 38810,
+        "code": "10063096",
+        "description": "Of a length/width ratio greater than 2 but less than 3",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 39010,
+        "code": "10063098",
+        "description": "Of a length/width ratio equal to or greater than 3",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 36810,
+        "code": null,
+        "intervalMin": "1006309912",
+        "intervalMax": "1006309916",
+        "description": "In immediate packings of a net content not exceeding 5 kg",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 36910,
+        "code": null,
+        "intervalMin": "1006309922",
+        "intervalMax": "1006309926",
+        "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 37010,
+        "code": null,
+        "intervalMin": "1006309992",
+        "intervalMax": "1006309996",
+        "description": "Other",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 40510,
+        "code": null,
+        "intervalMin": "1006201713",
+        "intervalMax": "1006201718",
+        "description": "Basmati rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 40810,
+        "code": "1006201791",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 40910,
+        "code": "1006201913",
+        "description": "Of the varieties Basmati 217 (India), Basmati 370, Basmati 386 (India), Kernel (Basmati) (Pakistan), Pusa Basmati, Ranbir Basmati (India), Super Basmati, Taraori Basmati (HBC-19) (India), Type-3 (Dehradun) (India)",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 41010,
+        "code": "1006201918",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 41310,
+        "code": null,
+        "intervalMin": "1006209813",
+        "intervalMax": "1006209818",
+        "description": "Basmati rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 41610,
+        "code": "1006209891",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 41710,
+        "code": "1006209913",
+        "description": "Of the varieties Basmati 217 (India), Basmati 370, Basmati 386 (India), Kernel (Basmati) (Pakistan), Pusa Basmati, Ranbir Basmati (India), Super Basmati, Taraori Basmati (HBC-19) (India), Type-3 (Dehradun) (India)",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 41810,
+        "code": "1006209918",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 42110,
+        "code": "1006302520",
+        "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 42310,
+        "code": "1006302590",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 42810,
+        "code": null,
+        "intervalMin": "1006302712",
+        "intervalMax": "1006302716",
+        "description": "In immediate packings of a net content not exceeding 5 kg",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 43110,
+        "code": null,
+        "intervalMin": "1006302722",
+        "intervalMax": "1006302726",
+        "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 43610,
+        "code": null,
+        "intervalMin": "1006302792",
+        "intervalMax": "1006302796",
+        "description": "Other",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 43710,
+        "code": null,
+        "intervalMin": "1006302912",
+        "intervalMax": "1006302914",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 43810,
+        "code": "1006302916",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 43910,
+        "code": null,
+        "intervalMin": "1006302922",
+        "intervalMax": "1006302924",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 44010,
+        "code": "1006302926",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 44110,
+        "code": null,
+        "intervalMin": "1006302992",
+        "intervalMax": "1006302994",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 44210,
+        "code": "1006302996",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 44410,
+        "code": "1006304610",
+        "description": "In immediate packings of a net content not exceeding 5 kg",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 44510,
+        "code": "1006304620",
+        "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 44710,
+        "code": "1006304690",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 45210,
+        "code": null,
+        "intervalMin": "1006304812",
+        "intervalMax": "1006304816",
+        "description": "In immediate packings of a net content not exceeding 5 kg",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46010,
+        "code": null,
+        "intervalMin": "1006304892",
+        "intervalMax": "1006304896",
+        "description": "Other",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46110,
+        "code": null,
+        "intervalMin": "1006304912",
+        "intervalMax": "1006304914",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46210,
+        "code": "1006304916",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46310,
+        "code": null,
+        "intervalMin": "1006304922",
+        "intervalMax": "1006304924",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46410,
+        "code": "1006304926",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46510,
+        "code": null,
+        "intervalMin": "1006304992",
+        "intervalMax": "1006304994",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46610,
+        "code": "1006304996",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46810,
+        "code": "1006306510",
+        "description": "In immediate packings of a net content not exceeding 5 kg",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 46910,
+        "code": "1006306520",
+        "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 47110,
+        "code": "1006306590",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 47610,
+        "code": null,
+        "intervalMin": "1006306712",
+        "intervalMax": "1006306716",
+        "description": "In immediate packings of a net content not exceeding 5 kg",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 47910,
+        "code": null,
+        "intervalMin": "1006306722",
+        "intervalMax": "1006306726",
+        "description": "In immediate packings of a net content exceeding 5 kg but not exceeding 20 kg",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 48410,
+        "code": null,
+        "intervalMin": "1006306792",
+        "intervalMax": "1006306796",
+        "description": "Other",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 48510,
+        "code": null,
+        "intervalMin": "1006306912",
+        "intervalMax": "1006306914",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 48610,
+        "code": "1006306916",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 48710,
+        "code": null,
+        "intervalMin": "1006306922",
+        "intervalMax": "1006306924",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 48810,
+        "code": "1006306926",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 48910,
+        "code": null,
+        "intervalMin": "1006306992",
+        "intervalMax": "1006306994",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 49010,
+        "code": "1006306996",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 54310,
+        "code": null,
+        "intervalMin": "1006304822",
+        "intervalMax": "1006304824",
+        "description": "Aromatic rice",
+        "hasChildren": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ],
+    [
+      {
+        "id": 54410,
+        "code": "1006304826",
+        "description": "Other",
+        "hasChildren": false,
+        "selectable": true
+      },
+      "curl: (22) The requested URL returned error: 429\n"
+    ]
+  ]
+}

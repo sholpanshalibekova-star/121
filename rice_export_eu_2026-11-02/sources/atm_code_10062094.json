@@ -1,0 +1,47 @@
+[
+  {
+    "id": 310,
+    "code": "10",
+    "description": "Cereals",
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 1410,
+        "code": "1006",
+        "description": "Rice",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 7410,
+            "code": "100620",
+            "description": "Husked (brown) rice",
+            "hasChildren": true,
+            "children": [
+              {
+                "id": 11310,
+                "code": null,
+                "description": "Parboiled",
+                "hasChildren": true
+              },
+              {
+                "id": 11410,
+                "code": null,
+                "description": "Other",
+                "hasChildren": true,
+                "children": [
+                  {
+                    "id": 18810,
+                    "code": "10062094",
+                    "description": "Medium grain",
+                    "hasChildren": false,
+                    "selectable": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
